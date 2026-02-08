@@ -13,3 +13,9 @@ It uses basic Natural Language Processing techniques.
 ## How to Run
 Run the Python file using:
 python nova_ai_chatbot.py
+
+## 📸 Chatbot Output
+
+![Chatbot Output](Screenshot.png)
+
+
